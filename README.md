@@ -81,7 +81,7 @@ If you use this code, please cite
 @article{devries2020instance,
   title={Instance Selection for GANs},
   author={DeVries, Terrance and Drozdzal, Michal and Taylor, Graham W},
-  journal={arXiv preprint arXiv:2007.15255},
+  journal={Advances in Neural Information Processing Systems},
   year={2020}
 }
 ```
