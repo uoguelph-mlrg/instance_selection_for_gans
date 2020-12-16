@@ -1,6 +1,6 @@
 # Instance Selection for GANs
 
-This repo contains code for the paper [Instance Selection for GANs](https://arxiv.org/abs/2007.15255) by Terrance DeVries, Michal Drozdzal, and Graham W. Taylor. 
+This repo contains code for the NeurIPS 2020 paper [Instance Selection for GANs](https://arxiv.org/abs/2007.15255) by Terrance DeVries, Michal Drozdzal, and Graham W. Taylor. 
 
 <p align="center">
   <img src="imgs/samples.png">
