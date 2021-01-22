@@ -37,7 +37,7 @@ def prepare_parser():
   ### Instance Selection stuff ###
   parser.add_argument(
     '--embedding', type=str, default='inceptionv3',
-    choices=['inceptionv3', 'vgg16', 'places365', 'resnextwsl', 'swav'],
+    choices=['inceptionv3', 'resnet50', 'places365', 'resnextwsl', 'swav'],
     help='Embedding function for feature extraction (default: %(default)s)')
   parser.add_argument(
     '--density_measure', type=str, default='gaussian',
